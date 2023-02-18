@@ -11,6 +11,6 @@ import lombok.ToString;
 public class Employee {
     private Long employeeId;
     private String employeeName;
-
+    private Float salary;
 
 }
